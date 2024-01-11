@@ -1,0 +1,13 @@
+Name,Age,Experience,Salary,Department
+ALI,25,10, 5000,physic
+JACOB,56,5,40000,geology
+JOHN,12,8,30000,physic
+,30,9,10000,geology
+,,,90000,data
+,,,,device
+ALI,25,10, 5000,physic
+JACOB,56,5,40000,geology
+JOHN,12,8,30000,physic
+,30,9,10000,geology
+,,,90000,data
+,,,,device
